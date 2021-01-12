@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Dogs
 
-### Dogs is a project made by origamid. This project consists of teaching all the concepts of react hooks.
+### Dogs is a project made by origamid course. This project consists of teaching all the concepts of react hooks.
 
 In the project directory, you can run:
 
